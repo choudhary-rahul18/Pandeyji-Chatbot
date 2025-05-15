@@ -1,2 +1,2 @@
 fastapi[all]
-pip install mysql-connector-python
+mysql-connector-python
